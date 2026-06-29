@@ -1,5 +1,6 @@
 streamlit
 matplotlib
 pytz
+folium
 numpy
 pandas
